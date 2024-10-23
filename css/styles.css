@@ -617,10 +617,15 @@ img {
   background-color: #404BBF; border: none;
 }
 
-.close-icon:hover,
-.close-icon:focus {
+.close-button:hover  .close-icon,
+.close-button:focus  .close-icon {
   fill: #ffffff;
 }
+
+/*.close-icon:hover,
+.close-icon:focus {
+  fill: #ffffff;
+}*/
 
 .text-mod {
   font-weight: 500;
